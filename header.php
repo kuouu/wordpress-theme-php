@@ -6,7 +6,7 @@
   <title><?php wp_title('|', true, 'right'); ?></title>
   <link rel="stylesheet" href="<?php echo esc_url(get_stylesheet_uri()); ?>" type="text/css" />
   <?php wp_head(); ?>
-  <div>This is Footer</div>
+  <div>This is header.</div>
 </head>
 
 <body>
