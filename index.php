@@ -1,4 +1,4 @@
 <?php
 get_header();
-get_template_part('templates/route');
+get_template_part('route');
 get_footer();
